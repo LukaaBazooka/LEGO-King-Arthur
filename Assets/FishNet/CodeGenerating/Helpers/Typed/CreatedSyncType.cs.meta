@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0cae698c9bc732641892caabf04365dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.12R
+  assetPath: Assets/FishNet/CodeGenerating/Helpers/Typed/CreatedSyncType.cs
+  uploadId: 629603

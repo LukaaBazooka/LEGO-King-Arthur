@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 116b0833780d64a258ee4840edb2956c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148326
+  packageName: Arcweave Importer
+  packageVersion: 1.3
+  assetPath: Assets/Arcweave/Scripts/ProjectRunner.cs
+  uploadId: 381473

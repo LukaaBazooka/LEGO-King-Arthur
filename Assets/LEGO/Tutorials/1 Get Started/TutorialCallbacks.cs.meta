@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40104ba21a444d642a8dc6350cb662fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/1 Get Started/TutorialCallbacks.cs
+  uploadId: 489201

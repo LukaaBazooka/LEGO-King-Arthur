@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1cf2c1d7e97cb2049ac830bfbac6e330
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/Criteria/SaveSceneCriteria.cs
+  uploadId: 489201

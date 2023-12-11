@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1c684baf0d2118e4dbadf63fc375b986
+timeCreated: 1522575541
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148326
+  packageName: Arcweave Importer
+  packageVersion: 1.3
+  assetPath: Assets/Arcweave/Scripts/Editor/SimpleJSON.cs
+  uploadId: 381473

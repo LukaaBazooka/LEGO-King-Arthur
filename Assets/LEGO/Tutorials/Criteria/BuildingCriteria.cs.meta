@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 80502e765f9a2d24aacf5b2ed6b507f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Tutorials/Criteria/BuildingCriteria.cs
+  uploadId: 489201

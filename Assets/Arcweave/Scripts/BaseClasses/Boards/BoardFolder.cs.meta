@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 43953a0752595af418577688a7e34458
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148326
+  packageName: Arcweave Importer
+  packageVersion: 1.3
+  assetPath: Assets/Arcweave/Scripts/BaseClasses/Boards/BoardFolder.cs
+  uploadId: 381473
