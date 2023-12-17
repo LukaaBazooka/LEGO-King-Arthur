@@ -272,16 +272,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Title
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
-  m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
+  m_fontAsset: {fileID: 11400000, guid: a6cf66b3d3761824289fe5accf23b700, type: 2}
+  m_sharedMaterial: {fileID: 598986484446601087, guid: a6cf66b3d3761824289fe5accf23b700,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278896890
-  m_fontColor: {r: 0.98039216, g: 0.78431374, b: 0.039215688, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -505,8 +505,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Description
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
-  m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
+  m_fontAsset: {fileID: 11400000, guid: a6cf66b3d3761824289fe5accf23b700, type: 2}
+  m_sharedMaterial: {fileID: 598986484446601087, guid: a6cf66b3d3761824289fe5accf23b700,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -662,16 +662,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Progress
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
-  m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
+  m_fontAsset: {fileID: 11400000, guid: d851a3145ac4a094d9b2addd4e63f3c4, type: 2}
+  m_sharedMaterial: {fileID: 598986484446601087, guid: d851a3145ac4a094d9b2addd4e63f3c4,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278896890
-  m_fontColor: {r: 0.98039216, g: 0.78431374, b: 0.039215688, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

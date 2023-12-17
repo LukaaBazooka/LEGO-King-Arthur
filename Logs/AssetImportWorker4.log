@@ -250,3 +250,49 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2719.029946 seconds.
+  path: Assets/LEGO/Textures/UI/Arrow Key.png
+  artifactKey: Guid(4340e723a12b045aa8cc6fc5b37629e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Arrow Key.png using Guid(4340e723a12b045aa8cc6fc5b37629e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922b3f38996863aaef86eac3c36086f8') in 0.164073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/LEGO/Textures/UI/Mouse Icon.png
+  artifactKey: Guid(87df40cd8303d4826a5b0fe49e720f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Mouse Icon.png using Guid(87df40cd8303d4826a5b0fe49e720f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0413d3f92127cde04ac987254528051e') in 0.022528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/LEGO/Textures/UI/Speech Bubble Think 1.png
+  artifactKey: Guid(7aab3eb1b9c59439ab38035846b22a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Speech Bubble Think 1.png using Guid(7aab3eb1b9c59439ab38035846b22a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6154d907f9f9def6ce733c72ccf9aef1') in 0.019664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/LEGO/Textures/UI/Speech Bubble Yell.png
+  artifactKey: Guid(4b337ab875329c74685845d479027c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Speech Bubble Yell.png using Guid(4b337ab875329c74685845d479027c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899aeffb32624271a8fed18242711cbd') in 0.084313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/LEGO/Textures/UI/Cross.png
+  artifactKey: Guid(35f64fb5ca7ca43cbb082242904a04ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Cross.png using Guid(35f64fb5ca7ca43cbb082242904a04ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095fb54116947fb321c4dd56afdbc922') in 0.022156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/LEGO/Textures/UI/Speech Bubble Think 2.png
+  artifactKey: Guid(8987a1bdba1e5e9478603333eabb3420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Speech Bubble Think 2.png using Guid(8987a1bdba1e5e9478603333eabb3420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469ab25ed801267bbc3ecbba10c1f9c7') in 0.038346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/LEGO/Textures/UI/Speech Bubble Talk.png
+  artifactKey: Guid(a0185ed1ed81744c69e82dea0e9124d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Textures/UI/Speech Bubble Talk.png using Guid(a0185ed1ed81744c69e82dea0e9124d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffac6ee32787b5a313e3f609b24a6007') in 0.059423 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
