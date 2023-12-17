@@ -9,11 +9,11 @@ C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker0
+AssetImportWorker4
 -projectPath
 C:/Users/epicg/Documents/GitHub/LEGO-King-Arthur
 -logFile
-Logs/AssetImportWorker0.log
+Logs/AssetImportWorker4.log
 -srvPort
 55283
 Successfully changed project path to: C:/Users/epicg/Documents/GitHub/LEGO-King-Arthur
@@ -47,7 +47,7 @@ C:/Users/epicg/Documents/GitHub/LEGO-King-Arthur
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 131.54 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 124.18 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.1.16f1 (7321c9670bc2)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Resources/UnitySubsystems
@@ -63,98 +63,98 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012146 seconds.
+Registered in 0.010028 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 123.32 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 124.16 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.668 seconds
+- Completed reload, in  0.620 seconds
 Domain Reload Profiling:
-	ReloadAssembly (668ms)
-		BeginReloadAssembly (88ms)
+	ReloadAssembly (621ms)
+		BeginReloadAssembly (69ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (459ms)
-			LoadAssemblies (84ms)
+		EndReloadAssembly (448ms)
+			LoadAssemblies (67ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (93ms)
-				TypeCache.Initialize (93ms)
-					TypeCache.ScanAssembly (91ms)
+			SetupTypeCache (96ms)
+				TypeCache.Initialize (96ms)
+					TypeCache.ScanAssembly (94ms)
 				ResolveRequiredComponents (0ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (20ms)
-			SetupLoadedEditorAssemblies (295ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (282ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (9ms)
-				SetLoadedEditorAssemblies (5ms)
-				RefreshPlugins (123ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (124ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (114ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
+				ProcessInitializeOnLoadAttributes (107ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010424 seconds.
+Registered in 0.010119 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\epicg\Documents\GitHub\LEGO-King-Arthur\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\epicg\Documents\GitHub\LEGO-King-Arthur\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 124.96 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 105.52 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.384 seconds
+- Completed reload, in  1.171 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1385ms)
-		BeginReloadAssembly (123ms)
+	ReloadAssembly (1172ms)
+		BeginReloadAssembly (95ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (25ms)
-		EndReloadAssembly (1150ms)
-			LoadAssemblies (98ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (980ms)
+			LoadAssemblies (85ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (302ms)
-				TypeCache.Initialize (292ms)
-					TypeCache.ScanAssembly (286ms)
+			SetupTypeCache (245ms)
+				TypeCache.Initialize (234ms)
+					TypeCache.ScanAssembly (229ms)
 				ResolveRequiredComponents (10ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (69ms)
-			SetupLoadedEditorAssemblies (624ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (556ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (6ms)
-				RefreshPlugins (125ms)
-				BeforeProcessingInitializeOnLoad (121ms)
-				ProcessInitializeOnLoadAttributes (271ms)
-				ProcessInitializeOnLoadMethodAttributes (81ms)
-				AfterProcessingInitializeOnLoad (11ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (106ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (254ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 3.13 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5856 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 47 unused Assets / (418.8 KB). Loaded Objects now: 6308.
+Unloading 47 unused Assets / (420.5 KB). Loaded Objects now: 6310.
 Memory consumption went from 0.91 GB to 0.91 GB.
-Total: 7.253700 ms (FindLiveObjects: 1.110300 ms CreateObjectMapping: 0.299200 ms MarkObjects: 5.615500 ms  DeleteObjects: 0.226900 ms)
+Total: 4.436100 ms (FindLiveObjects: 0.654000 ms CreateObjectMapping: 0.296800 ms MarkObjects: 3.321900 ms  DeleteObjects: 0.162800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -168,29 +168,85 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 37986.391209 seconds.
-  path: Assets/AnyConv.com__bone_dragon_-_minecraft_creature_-_free.obj
-  artifactKey: Guid(1d4eb0687b5f9c0408ba1dc6c17b2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AnyConv.com__bone_dragon_-_minecraft_creature_-_free.obj using Guid(1d4eb0687b5f9c0408ba1dc6c17b2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df89a3dbbd3920ff5d5c753420ced36c') in 9.516869 seconds 
+  Time since last request: 38842.749219 seconds.
+  path: Assets/LEGO/Materials/Environment/Day Fog.mat
+  artifactKey: Guid(8653923df740d704c9cbccac8ca81959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Materials/Environment/Day Fog.mat using Guid(8653923df740d704c9cbccac8ca81959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9707d355dc9c7acd8e0162f10f80525c') in 0.209715 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 174.650848 seconds.
-  path: Assets/New Material 2.mat
-  artifactKey: Guid(df52db73542206e4f8277a483ee5fa75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material 2.mat using Guid(df52db73542206e4f8277a483ee5fa75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c6f445c5123d61532f769eda6b7861') in 0.039485 seconds 
+  Time since last request: 315.705853 seconds.
+  path: Assets/LEGO/Materials/Environment/Day Fog 1.mat
+  artifactKey: Guid(3020bd01720d4f744b6623dd1f61b27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Materials/Environment/Day Fog 1.mat using Guid(3020bd01720d4f744b6623dd1f61b27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5fb94f3ce5cf29ef4a0de477db7be20') in 0.015470 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/wall.fbx
-  artifactKey: Guid(0d00a0712042d3543a476b1c581937a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/wall.fbx using Guid(0d00a0712042d3543a476b1c581937a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4158fe67c947b0801b31ad99ddc6c6') in 0.684880 seconds 
+  Time since last request: 178.798304 seconds.
+  path: Assets/LEGO/Scenes/New Scene.unity
+  artifactKey: Guid(6a3a4e8d9b45ff248ab856512fa27174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/New Scene.unity using Guid(6a3a4e8d9b45ff248ab856512fa27174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75200abb07b0fcb15c67bb088971cee') in 0.008611 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.254599 seconds.
-  path: Assets/Settings/Default_PipelineAsset_ForwardRenderer.asset
-  artifactKey: Guid(845e9e04c2ef64318b4184bb45061702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Settings/Default_PipelineAsset_ForwardRenderer.asset using Guid(845e9e04c2ef64318b4184bb45061702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0054f980c1389ef7e2aefea45e7f2a') in 0.009383 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  Time since last request: 6.239083 seconds.
+  path: Assets/LEGO/Scenes/Microgame - Pandamonium.unity
+  artifactKey: Guid(fa8eb3e369aca4e858eee177571417c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/Microgame - Pandamonium.unity using Guid(fa8eb3e369aca4e858eee177571417c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c546f7ce164228b9b1a962f5a694229d') in 0.002272 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009174 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\epicg\Documents\GitHub\LEGO-King-Arthur\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\epicg\Documents\GitHub\LEGO-King-Arthur\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1309ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1046ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (309ms)
+				TypeCache.Initialize (297ms)
+					TypeCache.ScanAssembly (288ms)
+				ResolveRequiredComponents (13ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (510ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (286ms)
+				ProcessInitializeOnLoadMethodAttributes (72ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5718 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (380.6 KB). Loaded Objects now: 6408.
+Memory consumption went from 0.89 GB to 0.89 GB.
+Total: 4.607900 ms (FindLiveObjects: 0.596100 ms CreateObjectMapping: 0.364800 ms MarkObjects: 3.556000 ms  DeleteObjects: 0.090300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
